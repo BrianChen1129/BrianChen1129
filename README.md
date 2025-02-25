@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Yongqi Chen, a second-year Master student at UMich
-- 👀 I'm interested in MLsys and currently taking a gap year
+- 👀 I'm passionate about MLsys and currently taking a gap year
 - 📫 Feel free to reach me at yongqichcd@gmail.com
 
 <!---
