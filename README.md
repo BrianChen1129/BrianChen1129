@@ -1,4 +1,8 @@
-- 👋 Hi, I'm Yongqi Chen, a second-year Master student at UMich
+# 👋 Hi, I'm Yongqi Chen
+
+<img src="https://komarev.com/ghpvc/?username=BrianChen1129&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+- 👋 I'm a second-year Master student at UMich
 - 👀 I'm passionate about MLsys and currently taking a gap year
 - 📫 Feel free to reach me at yongqichcd@gmail.com
 
