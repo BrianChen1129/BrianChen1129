@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yongqi Chen
 
-- 👋 I'm a second-year Master student at UMich
-- 👀 I'm interested in efficient and fast video generation and currently a research intern in [Hao AI Lab](https://hao-ai-lab.github.io/)
+- 👋 I'm a research intern in [Hao AI Lab](https://hao-ai-lab.github.io/) at UCSD
+- 👀 I'm interested in efficient and fast video generation.
 - 📫 Feel free to reach me at yongqichcd@gmail.com
 
 <img src="https://komarev.com/ghpvc/?username=BrianChen1129&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
