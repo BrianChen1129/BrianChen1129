@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yongqi Chen
 
-- 👋 I'm a research intern in [Hao AI Lab](https://hao-ai-lab.github.io/) at UCSD
-- 👀 I'm interested in efficient and fast video generation.
+- 👋 I'm a Member of Technical Staff at a stealth startup. Previously, I was a research intern in [Hao AI Lab](https://hao-ai-lab.github.io/) at UCSD
+- 👀 I'm interested in enabling real-time interactive video generation.
 - 📫 Feel free to reach me at yongqichcd@gmail.com
 - 🏠 My homepage: https://brianchen1129.github.io/
 
